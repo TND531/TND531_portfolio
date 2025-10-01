@@ -10,7 +10,7 @@ My main interests are:
 - Meteorology: Mostly extreme weather phenomena, and ESPECIALLY tornadoes. Fun fact: "TND" means "TorNaDo" and "531" stands for "May 31st" (which is the date of the El Reno Tornado 05-31-2013),
 - Languages: I know Polish (because that's my native language), English (my second lanugage), basic Russian, really really basic Koine Greek, and I'm currently learning German (for the purpose of studying in Germany).
 
-Fan of:
+A Fan of:
 - VOCALOID songs (really basic tho): I love listening their songs, especially songs like "Override", "Bug", "Mesmerizer", "Left Behind Generation" or "Self Proclaimed Angel". My fav character is Kasane Teto (because I like many of her songs, tho, honestly, I don't know much about the fandom.) 😅
 - Alan Becker's Team's Animations: I adore their uniques style of animating, story-telling, and their dedication to their work. 
 
