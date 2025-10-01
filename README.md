@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a girl who's passionate to learn programming (especially Python). My purpose for being here on GitHub is to learn, get advice, and connect with others ☺️
-I'm serious about the "get advice" part, so everyone's pretty much free to critique my projects (and not only projects), eg. what they like, what they dislike, should I make any changes, etc. Because, y'know, I'm a COMPLETE beginner in this field, and so I cannot fully trust myself in what I'm doing yet.
+I'm serious about the "get advice" part, so everyone's pretty much free to critique my projects (and not only projects), eg. what they like, what they dislike, should I make any changes, etc. Because, y'know, I'm a COMPLETE beginner in this field, and so I cannot fully trust myself in what I'm doing yet. 
 
 My main interests are:
 - Programming: I thrive for skills in the Data Science field so, unsurprisingly, I'm focusing on Python first as my first step, then I'll probably learn more Excel, SQL, R, and similar stuff,
