@@ -15,7 +15,8 @@ A Fan of:
 - Alan Becker's Team's Animations: I adore their uniques style of animating, story-telling, and their dedication to their work. 
 
 ## Projects
-- none
+
+- [Basic Text-Based Game](https://github.com/TND531/Basic_Text-Based_Game): as the name says, it's a "basic text-based game"
 
 ## Technologies
 Python
