@@ -16,7 +16,7 @@ A Fan of:
 
 ## Projects
 
-- [Basic Text-Based Game (BETA)](https://github.com/TND531/Basic_Text-Based_Game): as the name says, it's a "basic text-based game"
+- [Basic Text-Based Game (BETA)](https://github.com/TND531/Basic_Text-Based_Game): as the name says, it's a "basic text-based game". It's not finished and currently it looks like it'll stay that way 🫤
 
 ## Technologies
 Python
