@@ -4,6 +4,9 @@
 
 - [Basic Text-Based Game (BETA)](https://github.com/TND531/Basic_Text-Based_Game): as the name says, it's a "basic text-based game". It's not finished and currently it looks like it'll stay that way 🫤
 
+## 💻 What I’m Working On
+- I'm starting to learn pandas and to work with data and so I'm currently working on a program with access to certain tornado data.
+
 ## ❇️ Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
